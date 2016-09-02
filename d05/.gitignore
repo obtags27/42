@@ -1,0 +1,8 @@
+*test*
+*main.c
+*.swp
+*.sh
+*.swn
+*.swo
+lib/
+
